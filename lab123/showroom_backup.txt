@@ -1,0 +1,9 @@
+Car A 6 8 55 34 1.5708
+Car C 6 8 59 30 -1.5708
+Car A 3 5.7 10 40 2.35619
+Car B 4 4 30 40 0
+Podium A 10 40 6
+Podium C 30 40 6
+Podium A 50 40 6
+Podium B 20 20 6
+Podium D 30 20 6

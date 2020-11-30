@@ -1,0 +1,15 @@
+release/auxiliary.o
+release/car.o
+release/cardialog.o
+release/carshowroom.o
+release/dimensionsdialog.o
+release/main.o
+release/mainwindow.o
+release/mygraphicview.o
+release/podium.o
+release/point.o
+release/tests.o
+release/moc_cardialog.o
+release/moc_dimensionsdialog.o
+release/moc_mainwindow.o
+release/moc_mygraphicview.o

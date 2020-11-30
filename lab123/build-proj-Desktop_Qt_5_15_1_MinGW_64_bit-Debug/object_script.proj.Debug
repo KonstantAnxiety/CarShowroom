@@ -1,0 +1,15 @@
+debug/auxiliary.o
+debug/car.o
+debug/cardialog.o
+debug/carshowroom.o
+debug/dimensionsdialog.o
+debug/main.o
+debug/mainwindow.o
+debug/mygraphicview.o
+debug/podium.o
+debug/point.o
+debug/tests.o
+debug/moc_cardialog.o
+debug/moc_dimensionsdialog.o
+debug/moc_mainwindow.o
+debug/moc_mygraphicview.o
